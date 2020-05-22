@@ -1,0 +1,64 @@
+.header {
+    padding: 80px;
+    text-align: center;
+    background: #0c61c2;
+    color: white;
+}
+
+.header h1 {
+    font-size: 40px;
+}
+
+.header p {
+    font-size: 25px;
+}
+
+body {
+    background: #0c61c2;
+    display: list-item;
+}
+
+.navbar {
+    background: #0c61c2;
+}
+
+.navbar list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+
+.navbar list a {
+    color: white;
+    display: block;
+    text-decoration: none;
+    padding: 14px 16px;
+    float: right;
+}
+
+.navbar list a:hover {
+    text-decoration: underline;
+}
+
+.content {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+
+}
+
+.content a {
+    color: coral;
+    border: 1px solid coral;
+    background: darkblue;
+    text-decoration: none;
+    display: block;
+    padding: 14px 16px;
+    float: left;
+}
+
+.content a:hover {
+    text-decoration: underline;
+}
