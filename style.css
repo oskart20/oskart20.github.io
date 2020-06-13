@@ -33,7 +33,7 @@ body {
     color: white;
     display: block;
     text-decoration: none;
-    padding: 14px 16px;
+    padding: 12px 16px;
     float: right;
 }
 
@@ -49,13 +49,13 @@ body {
 
 }
 
-.content a {
+.content a, b {
     color: coral;
     border: 1px solid coral;
     background: darkblue;
     text-decoration: none;
     display: block;
-    padding: 14px 16px;
+    padding: 10px 18px;
     float: left;
 }
 
